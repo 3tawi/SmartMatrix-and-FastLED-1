@@ -5,7 +5,7 @@
 // - FastLED Library: https://github.com/FastLED/FastLED
 // - DHT Sensor Library: https://github.com/3tawi/esp32DHT 
 // - DS1307ESP Library: https://github.com/3tawi/DS1307ESP
-// - RGB LED Matrix with an ESP32 - How to get started: 
+// - RGB LED Matrix with an ESP32 - How to get started: https://youtu.be/InhCc_-RBb4
 // - Getting Started ESP32 : https://www.youtube.com/watch?v=9b0Txt-yF7E 
 // Find All "Great Projects" Videos : https://www.youtube.com/c/GreatProjects
 
